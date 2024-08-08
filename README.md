@@ -63,11 +63,17 @@ Format your blog content using the integrated TinyMce Editor.
 
 <h3>Demo</h3>
 <b>Screenshots:</b>
+
 ![Screenshot 2024-08-08 182652](https://github.com/user-attachments/assets/897d642d-3d1b-4e13-91f1-71aeec1688c5)
+
 ![Screenshot 2024-08-08 182712](https://github.com/user-attachments/assets/1a0b5bdb-6ab2-462a-85fd-746fb347b34e)
+
 ![Screenshot 2024-08-08 182728](https://github.com/user-attachments/assets/075badfb-2647-4042-bb69-bbda63c7a9ee)
+
 ![Screenshot 2024-08-08 182744](https://github.com/user-attachments/assets/2f21186e-afd4-453f-a16d-752d1fdd3eb8)
+
 ![Screenshot 2024-08-08 182802](https://github.com/user-attachments/assets/ebc2f03b-659c-4177-aa6e-6f952bf88a4a)
+
 
 <b>Video Demo:</b>
 https://www.loom.com/share/0fe3f2e3e7bb430795b1b84b300d3203?sid=639a626b-0507-4c19-b9d9-ac102d8e47eb
